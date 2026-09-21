@@ -1,191 +1,166 @@
-# Hey, I'm Pedro 👋
+<div align="center">
 
-### Software & AI Engineer · Full-Stack · Generative AI · LLM Applications
+# Pedro Lucas
 
-I build software where **product engineering meets AI** — from user-facing experiences and backend systems to AI pipelines, model orchestration, and production reliability.
+### Software & AI Engineer
 
-Currently working at **Grupo SBF's AI Labs**, where I design and ship AI-powered products using Python, TypeScript, React, Next.js, FastAPI, LLMs, and cloud AI platforms.
+**AI × Software × Product Experience**
 
----
+Building intelligent products from **interface to production**.
 
-## 🚀 What I Build
+<br/>
 
-I enjoy turning ambiguous problems into production-ready systems.
+<a href="https://www.linkedin.com/in/pedro-lucas-souza/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/ipedrosouza">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
 
-My work sits at the intersection of:
-
-- 🤖 **Generative AI & LLM Applications**
-- 🧠 **AI Pipelines & Model Orchestration**
-- 🐍 **Python & Backend Engineering**
-- ⚛️ **React / Next.js / TypeScript**
-- 🏗️ **Software Architecture**
-- 📈 **Performance, Observability & Reliability**
-- 🎨 **Product & User Experience**
-
-I care about more than making something work.
-
-I care about making it **useful, observable, reliable, scalable, and pleasant to use.**
+<br/>
 
 ---
 
-## 🧠 AI Engineering
+## 👋 About
 
-At Grupo SBF, I work across the full lifecycle of AI-powered applications:
+I'm a **Software & AI Engineer** working at the intersection of
+**Artificial Intelligence, software engineering and product experience**.
 
-```text
-User Experience
-      ↓
-Data Capture
-      ↓
-Backend / APIs
-      ↓
-AI Pipeline
-      ↓
-Model Orchestration
-      ↓
-Generation / Processing
-      ↓
-Storage & Delivery
-      ↓
-Observability
-````
+Currently at **Grupo SBF · AI Labs**, building AI-powered products across
+the full stack — from **UX/UI and frontend architecture to Python backends,
+AI pipelines, LLM orchestration and production observability**.
 
-Technologies I've worked with include:
-
-**Python · FastAPI · Pydantic · PydanticAI · LangChain · Vertex AI · Gemini · VEO · LLMs · Datadog**
+My background in frontend engineering and UX/UI strongly influences how I
+build AI products: **complex technology should feel simple to the user.**
 
 ---
 
-## ✨ A Project I'm Proud Of
+## ✦ What I Build
 
-### Generative AI Experience — built with Google
+<table>
+<tr>
+<td width="50%">
 
-I played a leading technical role in developing an immersive Generative AI experience created in collaboration with Google.
+### 🤖 AI Engineering
 
-I worked across the **frontend and backend**, building:
+LLM applications, Generative AI, AI pipelines, model orchestration and
+production AI systems.
 
-* Data capture and consent flows
-* Image intake and processing
-* AI-powered video generation
-* Model orchestration
-* Storage pipelines
-* Automated content delivery
-* Production reliability and observability
+</td>
+<td width="50%">
 
-The experience was later evolved into a fully digital **Black Friday campaign**, where we improved:
+### 🎨 Product & UX
 
-* Facial consistency
-* Output quality
-* Model variability control
-* Pipeline reliability
-* User experience
+Interfaces and experiences that turn complex AI capabilities into
+simple, useful products.
 
-The interesting part wasn't simply calling an AI model.
+</td>
+</tr>
 
-It was turning the model into a **real product experience**.
+<tr>
+<td width="50%">
 
----
+### ⚛️ Full-Stack
 
-## 🏗️ Software Engineering at Scale
+React, Next.js, TypeScript, Python, FastAPI and Node.js across the
+entire product stack.
 
-Before focusing more heavily on AI, I spent years building high-traffic e-commerce platforms.
+</td>
+<td width="50%">
 
-Some of the engineering problems I've worked on:
+### 🏗️ Architecture
 
-* Nx monorepos
-* Micro Frontends
-* Design Systems
-* Backend-for-Frontend architectures
-* Headless CMS
-* Performance optimization
-* Accessibility
-* Observability
-* High-traffic launches
+Scalable systems, Micro Frontends, Nx, Design Systems, performance,
+observability and reliability.
 
-One example was the modernization of an e-commerce platform into a scalable **Nx + Micro Frontends architecture**, improving team autonomy and maintainability.
-
-I've also worked on high-visibility launches such as Nike's **"Manto do Corinthians"** campaign.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech
 
-### AI / Backend
+**AI**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square\&logo=pydantic\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+`LLMs` · `Generative AI` · `PydanticAI` · `LangChain` · `Vertex AI`
 
-### Frontend
+**Backend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square\&logo=storybook\&logoColor=white)
+`Python` · `FastAPI` · `Node.js` · `REST APIs` · `Pydantic`
 
-### Architecture & Infrastructure
+**Frontend**
 
-`Nx` · `Micro Frontends` · `REST APIs` · `Docker` · `GraphQL` · `Design Systems`
+`TypeScript` · `React` · `Next.js` · `Storybook` · `Design Systems`
 
-### Observability
+**Architecture**
+
+`Nx` · `Micro Frontends` · `BFF` · `Docker` · `GraphQL`
+
+**Observability**
 
 `Datadog` · `Sentry` · `LLM Observability`
 
 ---
 
+## ✨ Selected Work
+
+### Generative AI · Google × Grupo SBF
+
+Led the end-to-end development of an immersive **Generative AI experience**
+co-created with Google.
+
+Worked across:
+
+`UX/UI` → `Data Capture` → `Image Processing` → `AI Generation`
+→ `Orchestration` → `Storage` → `Automated Delivery`
+
+The experience was later evolved into a fully digital **Black Friday campaign**,
+improving output quality, facial consistency, model variability control,
+pipeline reliability and user experience.
+
+---
+
+### ⚡ High-Traffic Product Engineering
+
+Built and evolved large-scale e-commerce experiences using:
+
+`React` · `Next.js` · `TypeScript` · `Nx` · `Micro Frontends`
+
+with a strong focus on **performance, accessibility, observability and
+reliability**.
+
+---
+
 ## 💼 Experience
 
-### Grupo SBF
+**Grupo SBF**  
+`Software Engineer · AI & Full-Stack`  
+2023 → Present
 
-**Software Engineer — AI & Full-Stack**
+**M3**  
+`Mid Front-End Developer`  
+2020 → 2023
 
-`2023 → Present`
-
-AI Labs · Generative AI · Full-Stack · Production Systems
-
-### M3
-
-**Mid Front-End Developer**
-
-`2020 → 2023`
-
-B2B/B2C E-commerce · React · Next.js · TypeScript
-
-Worked on projects involving brands such as **GoPro, Crocs, Zhiyun and Santa Helena**.
+Worked on digital products and e-commerce experiences involving
+**Nike, GoPro, Crocs, Zhiyun, Santa Helena and VTEX Chile**.
 
 ---
 
-## 🌎 International Experience
+<div align="center">
 
-I've worked with distributed teams and international projects, including a project with **VTEX Chile**, where English was part of my daily communication.
+### Build useful things.
+### Make complex things feel simple.
 
-I'm comfortable collaborating across time zones, discussing technical decisions, and working directly with product and engineering teams in English.
+<br/>
 
----
+<a href="https://www.linkedin.com/in/pedro-lucas-souza/">
+  <img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## 🎯 What I'm Interested In
+<br/><br/>
 
-I'm particularly interested in:
+<sub>Software · AI · Product · UX</sub>
 
-* AI Engineering
-* LLM Applications
-* Generative AI
-* AI Agents & Workflows
-* AI Developer Tools
-* Full-Stack Product Engineering
-* Software Architecture
-* Production AI Systems
-
-I like working on problems where **AI isn't just a feature — it's part of the product itself.**
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/ipedrosouza)
----
-
-> **Build useful things. Make them reliable. Keep learning.**
+</div>
